@@ -1,5 +1,5 @@
 # árboles-en-python
 Árboles en python
 
-<h1>Estudiante: Nicolas Meneses Guerrero </h1>
+<p>Estudiante: Nicolas Meneses Guerrero </p>
 Código: 20161020533
